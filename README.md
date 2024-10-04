@@ -5,6 +5,7 @@ This project automates the process of booking a flight on a travel booking websi
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
+- [Technologies Used](#Technologoes-Used)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Running the Tests](#running-the-tests)
@@ -26,6 +27,15 @@ The project automates the process of booking a flight, covering the following st
 - Customizable for different sets of test data
 - Uses Pytest framework for running and managing test cases
 
+## Technologies Used
+
+- **Python 3.x**: Programming language used for writing the test cases.
+- **Selenium WebDriver**: Used for automating browser interactions.
+- **Pytest**: Testing framework for writing, running, and organizing test cases.
+- **ChromeDriver/GeckoDriver**: Web drivers for automating Chrome or Firefox browsers.
+- **Pytest-HTML**: For generating HTML reports after test execution.
+- **Virtual Environment (venv)**: For managing dependencies in an isolated environment.
+- 
 ## Prerequisites
 
 Before running the project, ensure you have the following:
