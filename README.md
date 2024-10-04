@@ -8,13 +8,16 @@ This project automates the process of booking a flight on a travel booking websi
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Running the Tests](#running-the-tests)
-- [Test Flow](#test-flow)
-- [Report Generation](#report-generation)
-- [Contributors](#contributors)
-
+  
 ## Project Overview
 
-This is an end-to-end automation script that interacts with a travel booking website. The script uses Selenium to automate the web interactions, making it easier to test booking flows without manual intervention. It logs into the site, selects flights, enters passenger details, completes payment, and finally verifies the successful booking.
+The project automates the process of booking a flight, covering the following steps:
+- Logging into the travel booking system with valid credentials.
+- Selecting flights based on user input for origin, destination, and dates.
+- Entering passenger details.
+- Handling payment transactions.
+- Completing and verifying the booking process.
+
 
 ## Features
 
